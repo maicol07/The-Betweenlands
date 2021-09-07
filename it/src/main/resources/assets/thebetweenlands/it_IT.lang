@@ -491,7 +491,7 @@ tile.thebetweenlands.bauble.name=Bauble
 
 # Items
 
-item.thebetweenlands.enum.unknown.name=Something went wrong :(
+item.thebetweenlands.enum.unknown.name=Something went wrong \:(
 item.thebetweenlands.algae_item.name=Algae Clump
 item.thebetweenlands.amulet_socket.name=Amulet Socket
 item.thebetweenlands.ancient.name=Temple Disc
@@ -762,13 +762,13 @@ item.thebetweenlands.moss_bed_item.name=Moss Bed
 item.thebetweenlands.lore_scrap.them.name=Lurking Shadows
 item.thebetweenlands.lore_scrap.mutants.name=Mutants of Terror
 item.thebetweenlands.lore_scrap.shadows.name=Note from a Fallen Shadow
-item.thebetweenlands.lore_scrap.ruins.name=Explorer's Entries: Marsh Ruins
-item.thebetweenlands.lore_scrap.heads.name=Explorer's Entries: Idol Heads
-item.thebetweenlands.lore_scrap.tar.name=Explorer's Entries: Pools of Tar
-item.thebetweenlands.lore_scrap.dungeon.name=Explorer's Entries: Dungeon Shrine
-item.thebetweenlands.lore_scrap.pitstone.name=Explorer's Entries: Underground Ruins
-item.thebetweenlands.lore_scrap.tower.name=Explorer's Entries: The Tower
-item.thebetweenlands.lore_scrap.fort.name=Explorer's Entries: The Fortress
+item.thebetweenlands.lore_scrap.ruins.name=Explorer's Entries\: Marsh Ruins
+item.thebetweenlands.lore_scrap.heads.name=Explorer's Entries\: Idol Heads
+item.thebetweenlands.lore_scrap.tar.name=Explorer's Entries\: Pools of Tar
+item.thebetweenlands.lore_scrap.dungeon.name=Explorer's Entries\: Dungeon Shrine
+item.thebetweenlands.lore_scrap.pitstone.name=Explorer's Entries\: Underground Ruins
+item.thebetweenlands.lore_scrap.tower.name=Explorer's Entries\: The Tower
+item.thebetweenlands.lore_scrap.fort.name=Explorer's Entries\: The Fortress
 item.thebetweenlands.angry_pebble.name=Angry Pebble
 item.thebetweenlands.inanimate_angry_pebble.name=Inanimate Angry Pebble
 item.thebetweenlands.ancient_remnant.name=Ancient Remnant
@@ -947,36 +947,36 @@ container.bl.draeton_furnace=Draeton Furnace
 container.bl.draeton_burner=Burner
 
 # Locations
-location.wilderness.name=80:<scale:1.75>Wilderness</scale>
-location.caverns.name=80:<scale:1.75>Caverns</scale>
-location.ruins.name=80:<scale:1.75>Ruins</scale>
-location.small_dungeon.name=80:<scale:1.75>Shrine</scale>
-location.tar_pool_dungeon.name=80:<scale:1.75>Tar Pool Dungeon</scale>
-location.cragrock_tower.name=80:Cragrock Tower
-location.wight_tower.name=80:Wight Fortress
-location.wight_tower_puzzle.name=80:Armory
-location.wight_tower_teleporter.name=200:<scale:1>Beware that, when fighting monsters, you yourself do not become a monster... <nl>for when you gaze long into the abyss. The abyss gazes also into you.</scale>
-location.wight_tower_boss.name=80:Primordial Malevolence
-location.abandoned_shack.name=<scale:1.75>Ruins</scale>
-location.underground_ruins.name=80:Underground Ruins
-location.spirit_tree.name=80:Spirit Tree
-location.sludge_worm_dungeon_winding_walkways.name=80:Winding Walkways
-location.sludge_worm_dungeon_barrishee_lair.name=80:Barrishee Lair
-location.sludge_worm_dungeon_crypt_tunnels.name=80:Crypt Tunnels
-location.sludge_worm_dungeon_crypt.name=80:Crypt
-location.sludge_worm_dungeon_maze.name=80:Labyrinthine Vaults
-location.sludge_worm_dungeon.name=80:Sludgeon Tower
-location.sludge_worm_dungeon_pit.name=80:Pit of Decay
-location.chiromaw_matriarch_nest.name=80:Chiromaw Matriarch Nest
+location.wilderness.name=80\:<scale\:1.75>Wilderness</scale>
+location.caverns.name=80\:<scale\:1.75>Caverns</scale>
+location.ruins.name=80\:<scale\:1.75>Ruins</scale>
+location.small_dungeon.name=80\:<scale\:1.75>Shrine</scale>
+location.tar_pool_dungeon.name=80\:<scale\:1.75>Tar Pool Dungeon</scale>
+location.cragrock_tower.name=80\:Cragrock Tower
+location.wight_tower.name=80\:Wight Fortress
+location.wight_tower_puzzle.name=80\:Armory
+location.wight_tower_teleporter.name=200\:<scale\:1>Beware that, when fighting monsters, you yourself do not become a monster... <nl>for when you gaze long into the abyss. The abyss gazes also into you.</scale>
+location.wight_tower_boss.name=80\:Primordial Malevolence
+location.abandoned_shack.name=<scale\:1.75>Ruins</scale>
+location.underground_ruins.name=80\:Underground Ruins
+location.spirit_tree.name=80\:Spirit Tree
+location.sludge_worm_dungeon_winding_walkways.name=80\:Winding Walkways
+location.sludge_worm_dungeon_barrishee_lair.name=80\:Barrishee Lair
+location.sludge_worm_dungeon_crypt_tunnels.name=80\:Crypt Tunnels
+location.sludge_worm_dungeon_crypt.name=80\:Crypt
+location.sludge_worm_dungeon_maze.name=80\:Labyrinthine Vaults
+location.sludge_worm_dungeon.name=80\:Sludgeon Tower
+location.sludge_worm_dungeon_pit.name=80\:Pit of Decay
+location.chiromaw_matriarch_nest.name=80\:Chiromaw Matriarch Nest
 
 
 
 # Tooltips
-tooltip.bl.arrow.octine=Use with caution!
+tooltip.bl.arrow.octine=Use with caution\!
 tooltip.bl.arrow.basilisk=Causes paralysis
 tooltip.bl.chiromaw_wing.eat=Anything will taste better after eating this...
 tooltip.bl.chiromaw_wing.dont_eat=I probably shouldn't eat this anymore...
-tooltip.bl.corrosion.0=Good as new!
+tooltip.bl.corrosion.0=Good as new\!
 tooltip.bl.corrosion.1=Slightly corroded
 tooltip.bl.corrosion.2=Moderately corroded
 tooltip.bl.corrosion.3=Very corroded
@@ -1017,16 +1017,16 @@ tooltip.bl.lurker_skin_pouch.usage=Press '%s' to open the Pouch
 tooltip.bl.octine.fire=Hot enough to set moss on fire
 tooltip.bl.fig=Looks tempting...
 tooltip.bl.pestle=Place Pestle in Mortar
-tooltip.bl.pestle.remaining=%d%% Remaining: %d more uses.
+tooltip.bl.pestle.remaining=%d%% Remaining\: %d more uses.
 tooltip.bl.aspectvial.byariis.fuel=Can be used as fuel for the Repeller
 tooltip.bl.rubber_bucket=Right click to extract the rubber from the bucket
-tooltip.bl.gem.aqua=\nWhen on tool:\n §9- Chance to weaken the enemy when attacking\nWhen on armor:\n §9- Chance to gain defense when attacked
-tooltip.bl.gem.crimson=\nWhen on tool:\n §9- Chance to gain strength when attacking\nWhen on armor:\n §9- Chance to hurt the enemy when attacked
-tooltip.bl.gem.green=\nWhen on tool:\n §9- Chance to heal when attacking\nWhen on armor:\n §9- Chance to absorb damage when attacked
+tooltip.bl.gem.aqua=\nWhen on tool\:\n §9- Chance to weaken the enemy when attacking\nWhen on armor\:\n §9- Chance to gain defense when attacked
+tooltip.bl.gem.crimson=\nWhen on tool\:\n §9- Chance to gain strength when attacking\nWhen on armor\:\n §9- Chance to hurt the enemy when attacked
+tooltip.bl.gem.green=\nWhen on tool\:\n §9- Chance to heal when attacking\nWhen on armor\:\n §9- Chance to absorb damage when attacked
 tooltip.bl.amulet.none=\nNo effect.\nCan be combined with a Gem
-tooltip.bl.amulet.aqua=\nWhen equipped:\n §9- Chance to weaken the enemy when attacking\n §9- Chance to gain defense when attacked
-tooltip.bl.amulet.crimson=\nWhen equipped:\n §9- Chance to gain strength when attacking\n §9- Chance to hurt the enemy when attacked
-tooltip.bl.amulet.green=\nWhen equipped:\n §9- Chance to heal when attacking\n §9- Chance to absorb damage when attacked
+tooltip.bl.amulet.aqua=\nWhen equipped\:\n §9- Chance to weaken the enemy when attacking\n §9- Chance to gain defense when attacked
+tooltip.bl.amulet.crimson=\nWhen equipped\:\n §9- Chance to gain strength when attacking\n §9- Chance to hurt the enemy when attacked
+tooltip.bl.amulet.green=\nWhen equipped\:\n §9- Chance to heal when attacking\n §9- Chance to absorb damage when attacked
 tooltip.bl.amulet.usage=Equip using the radial \nmenu [press '%s'] \nor by pressing '%s'
 tooltip.bl.weedwood_bucket=Can be used as a rubber\ntree tap by right-clicking\non a rubber tree
 tooltip.bl.syrmorite_bucket=Can be used as a rubber\ntree tap by right-clicking\non a rubber tree
@@ -1038,27 +1038,27 @@ tooltip.bl.dentrothyst_shield=Blocks splash potion effects
 tooltip.bl.caving_rope=Press '%s' to connect or disconnect\nto/from a nearby caving rope.\n§6The caving rope will despawn after\n§6%s minutes if not connected to\n§6a player.
 tooltip.bl.hearthgrove_log=This dense log is excellent as fuel.\nCan be tarred
 tooltip.bl.decay_food=Heals decay
-tooltip.bl.swamp_talisman_linked=Linked to portal\nX: %s\nY: %s\nZ: %s
-tooltip.bl.infusion.time=§aInfusion time:§r %s
-tooltip.bl.infusion.ingredients=§aIngredients:
+tooltip.bl.swamp_talisman_linked=Linked to portal\nX\: %s\nY\: %s\nZ\: %s
+tooltip.bl.infusion.time=§aInfusion time\:§r %s
+tooltip.bl.infusion.ingredients=§aIngredients\:
 tooltip.bl.infusion.empty=Empty
 tooltip.bl.bone_wayfinder=Must be linked to a Menhir
-tooltip.bl.bone_wayfinder_linked=Requires sufficient XP to use.\nLinked to Menhir\nX: %s\nY: %s\nZ: %s
+tooltip.bl.bone_wayfinder_linked=Requires sufficient XP to use.\nLinked to Menhir\nX\: %s\nY\: %s\nZ\: %s
 tooltip.bl.lurker_skin_shield=Can also be used as a raft
-tooltip.bl.grappling_hook=Reach: %3$s segments, ca. %1$s blocks\nLength: %4$s segments, ca. %2$s blocks
+tooltip.bl.grappling_hook=Reach\: %3$s segments, ca. %1$s blocks\nLength\: %4$s segments, ca. %2$s blocks
 tooltip.bl.grappling_hook.more_info=Use '%1$s + %2$s' and '%1$s + %3$s'\nto retract or extend the rope.\nSwing with regular movement keys.
 tooltip.bl.grappling_hook.upgrade=Craft with two Angler Teeth and a\nShambler Tongue to upgrade.
 tooltip.bl.aspectrus_seeds.mist=This plant can only flourish in\naspect infused mist.
 tooltip.bl.sludge_dungeon_plant.mist=This plant can only grow in\nSludgeon mist.
-tooltip.bl.item_mob.health=Health: %s / %s
+tooltip.bl.item_mob.health=Health\: %s / %s
 tooltip.bl.simple_slingshot=Shoots Betweenstone Pebbles
 tooltip.bl.lurker_skin_patch=Fixes Draeton leakages
 tooltip.bl.chirobarb_erupter.usage=Right-click to fire 360 degree volley of barbs.\nHas 3 second cooldown.
 tooltip.bl.ancient_armor.usage=Reduces Magic Damage.\nUp to half magic damage reduction\nwith a full set equipped.
 
-tooltip.bl.elixir.potency=§9Potency: %s
-tooltip.bl.elixir.duration=§9Duration: %s (%s)
-tooltip.bl.elixir.when_applied=§5When applied:
+tooltip.bl.elixir.potency=§9Potency\: %s
+tooltip.bl.elixir.duration=§9Duration\: %s (%s)
+tooltip.bl.elixir.when_applied=§5When applied\:
 tooltip.bl.elixir.foggedMind.effect=Clouds the mind with worrisome\nthoughts, causing one to see the illusion\nof a thick fog surrounding them.
 tooltip.bl.elixir.heavyweight.effect=Gives a strange sense of\nheaviness, causing one to find\nswimming more difficult and causing\nthem to sink in Mud despite whatever\nthey may be wearing to protect them from it.
 tooltip.bl.elixir.basilisk.effect=Petrifies the motor cortex of the\nbrain, causing one to be frozen in place.
@@ -1088,8 +1088,8 @@ tooltip.bl.elixir.nimblefeet.effect=Enhances muscle swiftness and nimbleness,\ni
 tooltip.bl.elixir.weakness.effect=Weakens the muscles, reducing one's\ndamage output when they attack.
 tooltip.bl.elixir.strength.effect=Increases raw physical strength, causing\none to deal more damage when they attack.
 
-tooltip.bl.censer_effect=Censer Effect:
-tooltip.bl.censer.remaining_duration=Remaining Duration:\nca. %5$s
+tooltip.bl.censer_effect=Censer Effect\:
+tooltip.bl.censer.remaining_duration=Remaining Duration\:\nca. %5$s
 tooltip.bl.censer.effect.sap_ball=Gradually heals decay in\na large area.
 tooltip.bl.censer.effect.weeping_blue_petal=Gradually heals decay in\na large area.
 tooltip.bl.censer.effect.plant_tonic=Prevents crops from decaying\nin a medium area.
@@ -1100,7 +1100,7 @@ tooltip.bl.censer.effect.aspect=Infuses Aspectrus crops with\nthe aspect and ena
 tooltip.bl.censer.effect.cremains=Incinerates any living creature\nin a small area and turns them\ninto cremains.
 tooltip.bl.censer.effect.swamp_water=Spreads steam in a large area\nthat carries the effect of the item it\nis imbued with.\nCan be imbued with a Bark Amulet.
 
-tooltip.bl.simulacrum.effect=Effect: %s
+tooltip.bl.simulacrum.effect=Effect\: %s
 tooltip.bl.simulacrum.effect.none=None
 tooltip.bl.simulacrum.effect.random=Random
 tooltip.bl.simulacrum.effect.them=Them
@@ -1114,7 +1114,7 @@ tooltip.bl.simulacrum.effect.wisp=Wisp
 tooltip.bl.simulacrum.effect.wisdom=Wisdom
 tooltip.bl.simulacrum.effect.blessing=Blessing
 
-tooltip.bl.recipes.used_in=§5Used in: §7%s
+tooltip.bl.recipes.used_in=§5Used in\: §7%s
 tooltip.bl.recipes.compost_bin=Compost Bin
 tooltip.bl.recipes.static_aspects=Gecko Cage
 tooltip.bl.recipes.aspects=Infuser
@@ -1214,7 +1214,7 @@ chat.talisman.cant_link=These portals can't be linked together
 chat.talisman.too_far=This portal is too far away to be linked
 chat.talisman.portal_linked=The portals are now linked together
 
-chat.item.forbiddenfig=Cursed are those who eat the Forbidden Fig!
+chat.item.forbiddenfig=Cursed are those who eat the Forbidden Fig\!
 
 chat.flintandsteel=It's too damp to set something on fire with %s
 chat.fertilizer=This %s fertilizer does not seem to work here
@@ -1222,7 +1222,7 @@ chat.fertilizer=This %s fertilizer does not seem to work here
 chat.amulet.slot.added=Added a new amulet slot
 chat.amulet.slot.full=Can't add any more amulet slots
 
-chat.event.spook=You feel a chill in the air... the haunting season has begun!
+chat.event.spook=You feel a chill in the air... the haunting season has begun\!
 chat.event.winter=You hear the sound of sleigh bells in the distance...
 
 chat.repeller.shimmerstone_missing=The repeller needs a Shimmerstone to run
@@ -1235,10 +1235,10 @@ chat.waystone.obstructed=Menhir is obstructed
 chat.simulacrum.obstructed=Simulacrum is obstructed
 chat.simulacrum.blessed=You feel blessed
 
-chat.dungeon_door_runes.locked=Dungeon door code set!
+chat.dungeon_door_runes.locked=Dungeon door code set\!
 
-chat.grappling_hook.max_length=Maximum rope length reached!
-chat.grappling_hook.disconnected=The grappling hook was ripped!
+chat.grappling_hook.max_length=Maximum rope length reached\!
+chat.grappling_hook.disconnected=The grappling hook was ripped\!
 
 chat.not_enough_fog_for_vial=There is not enough fog on this floor to fill the vial
 
@@ -1482,12 +1482,12 @@ jei.thebetweenlands.recipe.pestle_and_mortar=Pestle and Mortar
 jei.thebetweenlands.recipe.druid_altar=Druid Altar
 jei.thebetweenlands.recipe.purifier=Purifier
 jei.thebetweenlands.recipe.compost=Compost
-jei.thebetweenlands.compost.amount=Compost amount: %d
-jei.thebetweenlands.time=Process time: %d minutes and %d seconds
-jei.thebetweenlands.time.minutes=Process time: %d minutes
-jei.thebetweenlands.time.seconds=Process time: %d seconds
-jei.thebetweenlands.animator.life=Life amount: %d
-jei.thebetweenlands.animator.fuel=Fuel amount: %d
+jei.thebetweenlands.compost.amount=Compost amount\: %d
+jei.thebetweenlands.time=Process time\: %d minutes and %d seconds
+jei.thebetweenlands.time.minutes=Process time\: %d minutes
+jei.thebetweenlands.time.seconds=Process time\: %d seconds
+jei.thebetweenlands.animator.life=Life amount\: %d
+jei.thebetweenlands.animator.fuel=Fuel amount\: %d
 jei.thebetweenlands.tarred_weedwood_boat=Clicking a boat with a Tar Drip will make it tarred. A tarred boat will stay in place and is easier to direct and control.
 jei.thebetweenlands.druid_circle_reactivate=Reactivates Druid Spawner
 
@@ -1500,10 +1500,10 @@ command.blevent.success.alloff=All events are no longer taking place
 command.blevent.success.enable=Events are enabled
 command.blevent.success.disable=Events are disabled
 
-command.blevent.usage=Usage: /blevent <toggle|on|off|list|enable|disable>
-command.blevent.usage.toggle=Usage: /blevent toggle <event name>
-command.blevent.usage.on=Usage: /blevent on <event name>
-command.blevent.usage.off=Usage: /blevent off [event name]
+command.blevent.usage=Usage\: /blevent <toggle|on|off|list|enable|disable>
+command.blevent.usage.toggle=Usage\: /blevent toggle <event name>
+command.blevent.usage.on=Usage\: /blevent on <event name>
+command.blevent.usage.off=Usage\: /blevent off [event name]
 
 command.blevent.failure.unknown=Unknown event '%s'
 command.blevent.failure.wrongdimension=You must be in a Betweenlands world to toggle events
@@ -1514,23 +1514,23 @@ command.blevent.failure.alreadydisabled=Events are already disabled
 command.blevent.failure.on=The event '%s' could not be turned on
 command.blevent.failure.off=The event '%s' could not be turned off
 
-command.aspectdiscovery.usage=Usage: /aspectDiscovery <player> <reset|discover> <held|all>
+command.aspectdiscovery.usage=Usage\: /aspectDiscovery <player> <reset|discover> <held|all>
 command.aspectdiscovery.book.none=There's no Herblore Book to write to
 command.aspectdiscovery.held.null=Held item must not be null
-command.aspectdiscovery.discover.held=Result: %s Aspect: %d
+command.aspectdiscovery.discover.held=Result\: %s Aspect\: %d
 command.aspectdiscovery.discover.all=Discovered all aspects of all items
 command.aspectdiscovery.reset.held=Removed discovered aspects
 command.aspectdiscovery.reset.all=Removed discovered aspects from all items
 
-command.aspect.reset.usage=Usage: /resetAspects
+command.aspect.reset.usage=Usage\: /resetAspects
 command.aspect.reset.confirm=Confirm with '/resetAspects confirm'
 command.aspect.reset.success=The aspects have been reset
 
-command.blreloadrecipes.usage=Usage: /blReloadRecipes
+command.blreloadrecipes.usage=Usage\: /blReloadRecipes
 command.blreloadrecipes.success=Reloaded custom recipes
 command.blreloadrecipes.failed=Failed to reloaded custom recipes
 
-command.set_decay.usage=Usage: /setDecay <player> <decay> [saturation]
+command.set_decay.usage=Usage\: /setDecay <player> <decay> [saturation]
 command.decay.noint=Decay must be an integer
 command.decay_saturation.noint=Decay saturation must be an integer
 
@@ -1545,9 +1545,9 @@ key.use_secondary_ring=Use Secondary Ring
 key.connect_caving_rope=Connect/Disconnect Caving Rope
 
 #Manual
-manual.aspect.found.in=This aspect is found in:
-manual.aspect.used.in=This aspect is used in:
-manual.has.aspects=This item has the following aspects:
+manual.aspect.found.in=This aspect is found in\:
+manual.aspect.used.in=This aspect is used in\:
+manual.has.aspects=This item has the following aspects\:
 manual.aspect_info.title=Aspect Info
 manual.ingredient_info.title=Ingredient Info
 manual.open_entry=Open guide book entry
@@ -1616,8 +1616,8 @@ manual.item.thebetweenlands.ground_sludgecreep.description=Sludgecreep is a slim
 manual.item.thebetweenlands.ground_soft_rush.description=Soft Rush is a small plant that grows in the Marsh biome.
 manual.item.thebetweenlands.ground_swamp_kelp.description=Swamp Kelp is an aquatic plant that grows commonly in Deep Waters and Coarse Islands biomes.
 manual.item.thebetweenlands.ground_swamp_grass_tall.description=Swamp Tallgrass is a common plant found in Swamplands, Patchy Islands, Coarse Islands, and Marsh biomes, and in Underground Oases.
-manual.item.thebetweenlands.ground_roots.description=<scale:0.8>Roots grow in Coarse Islands and Sludge Plains biomes, in both regular and Giant forms. They can also be derived from Pyrads, nature spirits found around Giant Weedwood Trees.</scale>
-manual.item.thebetweenlands.ground_weedwood_bark.description=<scale:0.9>Weedwood Bark grows around the soft wood inside Weedwood Trees. It can also be derived from the Hollow Logs found scattered about Swamplands, Marsh, and Sludge Plains biomes.</scale>
+manual.item.thebetweenlands.ground_roots.description=<scale\:0.8>Roots grow in Coarse Islands and Sludge Plains biomes, in both regular and Giant forms. They can also be derived from Pyrads, nature spirits found around Giant Weedwood Trees.</scale>
+manual.item.thebetweenlands.ground_weedwood_bark.description=<scale\:0.9>Weedwood Bark grows around the soft wood inside Weedwood Trees. It can also be derived from the Hollow Logs found scattered about Swamplands, Marsh, and Sludge Plains biomes.</scale>
 manual.item.thebetweenlands.ground_water_weeds.description=Water Weeds can be found growing in Mud at the bottom of the water in Deep Waters biomes.
 manual.item.thebetweenlands.ground_volarpad.description=Volarpads are very large plants that grow commonly in Coarse Islands biomes and sometimes in Swamplands biomes.
 manual.item.thebetweenlands.ground_thorns.description=Thorns are dangerous hanging plants that grow deep down underground in caves.
@@ -1632,7 +1632,7 @@ manual.item.thebetweenlands.ground_marsh_marigold.description=Marsh Marigolds ar
 manual.item.thebetweenlands.ground_golden_club.description=Golden Clubs are strange orange flowers that grow in water in the Patchy Islands biome.
 manual.item.thebetweenlands.ground_deep_water_coral.description=Deep Water Coral is a blue luminous aquatic plant that grows in Mud in Deep Waters biomes.
 manual.item.thebetweenlands.ground_mire_snail_shell.description=Ochre Snail Shells are dropped by Mire Snails, which are found in Swamplands and Patchy Islands biomes.
-manual.item.thebetweenlands.ground_bulb_capped_mushroom.description=<scale:0.8>Bulb-Capped Mushrooms are luminous bright blue mushrooms that can be found growing around Giant Bulb-Capped Mushrooms in Patchy Islands biomes, and in Underground Oases. They have been known to cause minor trips.</scale>
+manual.item.thebetweenlands.ground_bulb_capped_mushroom.description=<scale\:0.8>Bulb-Capped Mushrooms are luminous bright blue mushrooms that can be found growing around Giant Bulb-Capped Mushrooms in Patchy Islands biomes, and in Underground Oases. They have been known to cause minor trips.</scale>
 manual.item.thebetweenlands.ground_angler_tooth.description=Angler Teeth are dropped by Anglers, which can be found lurking in the murky waters of The Betweenlands.
 manual.item.thebetweenlands.ground_sundew.description=Sundews are large plants that grow in Marsh biomes.
 manual.item.thebetweenlands.ground_pitcher_plant.description=Pitchers are large plants that grow in Swamplands biomes.
@@ -1651,51 +1651,51 @@ manual.item.thebetweenlands.ground_pale_grass.description=Pale Grass is a transp
 manual.item.thebetweenlands.ground_string_roots.description=String Roots hang from the ceiling of the Sludgeon vaults. They contain strange properties.
 manual.item.thebetweenlands.ground_cryptweed.description=Cryptweed is a mysterious hanging plant that grows in the Sludgeon vaults. It contains strange properties.
 
-manual.item.thebetweenlands.bl.elixir.foggedMind.description=<scale:0.75>The Draught of the Fogged Mind clouds the mind with worrisome thoughts, causing one to see the illusion of a thick fog surrounding them. <nl>A combination of Dayuniis, Freiwynn, Geoliirgaz, Ordaniis, Yunugaz, and Byariis aspects is required to make this draught. <nl>The more Geoliirgaz is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Draught of the Unclouded, which causes any fog to be cleared from one's vision.</scale>
-manual.item.thebetweenlands.bl.elixir.heavyweight.description=<scale:0.75>The Heavyweight Draught gives a strange sense of heaviness, causing one to find swimming more difficult and causing them to sink in Mud despite whatever they may be wearing to protect them from it. <nl>A combination of Azuwynn, Byrginaz, Yunugaz, Yihinren, Geoliirgaz, and Byariis aspects is required to make this draught. <nl>The more Yunugaz is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Lightweight Draught, which allows one to walk over water.</scale>
-manual.item.thebetweenlands.bl.elixir.basilisk.description=<scale:0.75>The Basilisk Draught petrifies the motor cortex of the brain, causing one to be frozen in place. <nl>A combination of Azuwynn, Fergalaz, Dayuniis, Yihinren, Yunugaz, and Byariis aspects is required to make this draught. <nl>The more Azuwynn is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Spiderbreed Draught, which allows one to climb on obstacles.</scale>
-manual.item.thebetweenlands.bl.elixir.weakbow.description=<scale:0.8>The Weakbow Draught reduces archery skill, greatly limiting one's bow shooting range. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, and Armaniis aspects is required to make this draught. <nl>The more Freiwynn is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Draught of Sagittarius, which allows one to see the path of an arrow fired from a bow.</scale>
-manual.item.thebetweenlands.bl.elixir.blindman.description=<scale:0.75>The Blindman’s Brew severely limits the functions of the eye, causing one to only be able to see a small distance in front of them and be unable to sprint. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, Geoliirgaz, and Byariis aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew's effects. The more Dayuniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Brew of the Cat’s Eye, which allows one to see better in the dark.</scale>
-manual.item.thebetweenlands.bl.elixir.slugarm.description=<scale:0.75>The Slugarm Brew makes the arms feel numb, decreasing one's arm swinging speed and thus causing them to mine slower and strike foes less easily. <nl>A combination of Azuwynn, Dayuniis, Yunugaz, Ordaniis, and Byariis aspects is required to make this brew. <nl>The more Azuwynn is used, the stronger are the brew’s effects. The more Ordaniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Swiftarm Brew, which increases one's arm swinging speed.</scale>
-manual.item.thebetweenlands.bl.elixir.stenching.description=<scale:0.8>The Stenching Brew has a very potent odor that is desired by monsters, making it easier for one to be detected by predators. <nl>A combination of Dayuniis and Armaniis aspects is required to make this brew. <nl>The more Armaniis is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Masking Brew, which makes it harder for one to be detected by predators.</scale>
-manual.item.thebetweenlands.bl.elixir.drunkard.description=<scale:0.75>The Drunkard’s Brew is highly intoxicating, causing one to experience a heavy bout of nausea. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, Firnalaz, and Byariis aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Hunter’s Sense Brew, which allows one to detect the scent trails of creatures.</scale>
-manual.item.thebetweenlands.bl.elixir.starvation.description=<scale:0.8>The Elixir of Starvation makes the stomach digest food faster and less efficiently, causing one to go hungry more quickly. <nl>A combination of Yeowynn, Ordaniis, Celawynn, and Byariis aspects is required to make this elixir. <nl>The more Celawynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Feasting, which fills one's stomach.</scale>
-manual.item.thebetweenlands.bl.elixir.poisonsting.description=<scale:0.8>The Poisonsting Elixir contains the wrath of the sinister plants found in the Betweenlands, poisoning one instantly. <nl>A combination of Azuwynn, Yeowynn, Celawynn, and Byariis aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Celawynn is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Toughskin Elixir, which protects one from harmful plants.</scale>
-manual.item.thebetweenlands.bl.elixir.decay.description=<scale:0.75>The Elixir of Decay increases vulnerability to the decaying aura of the Betweenlands, causing one to experience a quicker decline in physical and psychological health. <nl>A combination of Yeowynn, Ordaniis, Dayuniis, and Byariis aspects is required to make this elixir. <nl>The more Dayuniis is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Ripening, which reverses one's responses to the decaying aura.</scale>
-manual.item.thebetweenlands.bl.elixir.draining.description=<scale:0.85>The Elixir of Draining eats away at the body, draining one's health over time. <nl>A combination of Yeowynn, Ordaniis, and Byariis aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Healing, which restores one's health over time.</scale>
-manual.item.thebetweenlands.bl.elixir.lumbering.description=<scale:0.85>The Lumbering Elixir makes the muscles lethargic, reducing one's movement speed. <nl>A combination of Azuwynn, Ordaniis, Yunugaz, and Byariis aspects is required to make this elixir. <nl>The more Yunugaz is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Nimblefeet Elixir, which speeds one's movement.</scale>
-manual.item.thebetweenlands.bl.elixir.weakness.description=<scale:0.8>The Elixir of Weakness weakens the muscles, reducing one's damage output when they attack. <nl>A combination of Azuwynn, Ordaniis, and Byariis aspects is required to make this elixir. <nl>The more Azuwynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Strength, which increases one's damage output.</scale>
-manual.item.thebetweenlands.bl.elixir.unclouded.description=<scale:0.75>The Draught of the Unclouded clears a foggy mind, allowing one to see through dense fog as if it evaporated in front of their eyes. <nl>A combination of Dayuniis, Freiwynn, Geoliirgaz, Ordaniis, and Yunugaz aspects is required to make this draught. <nl>The more Geoliirgaz is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Draught of the Fogged Mind, which causes one to hallucinate a very dense fog around them.</scale>
-manual.item.thebetweenlands.bl.elixir.lightweight.description=<scale:0.75>The Lightweight Draught causes a strange sensation of weightlessness, allowing one to walk slowly over water as if it were solid ground. <nl>A combination of Azuwynn, Byrginaz, Yunugaz, Yihinren, and Geoliirgaz aspects is required to make this draught. <nl>The more Yunugaz is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Heavyweight Draught, which hinders one's swimming ability and causes them to sink in Mud no matter what they are wearing to counteract it.</scale>
-manual.item.thebetweenlands.bl.elixir.spiderbreed.description=<scale:0.75>The Spiderbreed Draught changes the workings of the skin and muscle, allowing one to climb up and down any obstacle as if they were an insect. <nl>A combination of Azuwynn, Fergalaz, Dayuniis, Yihinren, and Yunugaz aspects is required to make this draught. <nl>The more Azuwynn is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Basilisk Draught, which causes one to experience paralysis.</scale>
-manual.item.thebetweenlands.bl.elixir.sagittarius.description=<scale:0.75>The Draught of Sagittarius contains the power of Sagittarius, allowing one to see exactly what path their arrow will take when fired from a bow. <nl>A combination of Freiwynn, Dayuniis, Byariis, Ordaniis, and Armaniis aspects is required to make this draught. <nl>The more Freiwynn is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Weakbow Draught, which reduces one's bow shooting range.</scale>
-manual.item.thebetweenlands.bl.elixir.catsEyes.description=<scale:0.8>The Brew of the Cat's Eye makes the eyes extremely sensitive to light, allowing one to see very well in the dark. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, and Geoliirgaz aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew's effects. The more Dayuniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Blindman's Brew, which causes one to be blinded.</scale>
-manual.item.thebetweenlands.bl.elixir.swiftarm.description=<scale:0.75>The Swiftarm Brew enables arm muscles to work to their fullest, increasing one's arm swinging speed and thus allowing them to mine faster, pull back bows more rapidly, and strike foes more easily. <nl>A combination of Azuwynn, Dayuniis, Yunugaz, and Ordaniis aspects is required to make this brew. <nl>The more Azuwynn is used, the stronger are the brew’s effects. The more Ordaniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Slugarm Brew, which decreases one's arm swinging speed.</scale>
-manual.item.thebetweenlands.bl.elixir.masking.description=<scale:0.8>The Masking Brew masks natural odors like a perfume, making it harder for one to be detected by predators. <nl>A combination of Dayuniis, Armaniis, and Byariis aspects is required to make this brew. <nl>The more Armaniis is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Stenching Brew, which makes it easier for one to be detected by predators.</scale>
-manual.item.thebetweenlands.bl.elixir.huntersSense.description=<scale:0.8>The Hunter’s Sense Brew enhances the senses, allowing one to see and smell the scent trails of creatures in order to track them down. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, and Firnalaz aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Drunkard’s Brew, which causes one to experience heavy nausea.</scale>
-manual.item.thebetweenlands.bl.elixir.feasting.description=<scale:0.8>The Elixir of Feasting gives the stomach something tough to feed on, satisfying one's hunger over time. <nl>A combination of Yeowynn, Ordaniis, and Celawynn aspects is required to make this elixir. <nl>The more Celawynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Starvation, which causes one to go hungry more quickly.</scale>
-manual.item.thebetweenlands.bl.elixir.toughskin.description=<scale:0.8>The Toughskin Elixir increases skin toughness, protecting one from harmful plants found throughout the Betweenlands. <nl>A combination of Azuwynn, Yeowynn, and Celawynn aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Celawynn is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Poisonsting Elixir, which poisons one instantly.</scale>
-manual.item.thebetweenlands.bl.elixir.ripening.description=<scale:0.75>The Elixir of Ripening reverses the effects of the decaying aura of the Betweenlands, restoring one's physical and psychological health over time. <nl>A combination of Yeowynn, Ordaniis, and Dayuniis aspects is required to make this elixir. <nl>The more Dayuniis is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Decay, which accelerates one's vulnerability to the decaying aura’s effects.</scale>
-manual.item.thebetweenlands.bl.elixir.healing.description=<scale:0.85>The Elixir of Healing accelerates natural regeneration, healing one's wounds over time. <nl>A combination of Yeowynn and Ordaniis aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Draining, which drains one's health over time.</scale>
-manual.item.thebetweenlands.bl.elixir.nimblefeet.description=<scale:0.85>The Nimblefeet Elixir enhances muscle swiftness and nimbleness, increasing one's movement speed. <nl>A combination of Azuwynn, Ordaniis, and Yunugaz aspects is required to make this elixir. <nl>The more Yunugaz is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Lumbering Elixir, which slows one's movement.</scale>
-manual.item.thebetweenlands.bl.elixir.strength.description=<scale:0.8>The Elixir of Strength increases raw physical strength, causing one to deal more damage when they attack. <nl>A combination of Azuwynn and Ordaniis aspects is required to make this elixir. <nl>The more Azuwynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Weakness, which reduces one's damage output.</scale>
+manual.item.thebetweenlands.bl.elixir.foggedMind.description=<scale\:0.75>The Draught of the Fogged Mind clouds the mind with worrisome thoughts, causing one to see the illusion of a thick fog surrounding them. <nl>A combination of Dayuniis, Freiwynn, Geoliirgaz, Ordaniis, Yunugaz, and Byariis aspects is required to make this draught. <nl>The more Geoliirgaz is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Draught of the Unclouded, which causes any fog to be cleared from one's vision.</scale>
+manual.item.thebetweenlands.bl.elixir.heavyweight.description=<scale\:0.75>The Heavyweight Draught gives a strange sense of heaviness, causing one to find swimming more difficult and causing them to sink in Mud despite whatever they may be wearing to protect them from it. <nl>A combination of Azuwynn, Byrginaz, Yunugaz, Yihinren, Geoliirgaz, and Byariis aspects is required to make this draught. <nl>The more Yunugaz is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Lightweight Draught, which allows one to walk over water.</scale>
+manual.item.thebetweenlands.bl.elixir.basilisk.description=<scale\:0.75>The Basilisk Draught petrifies the motor cortex of the brain, causing one to be frozen in place. <nl>A combination of Azuwynn, Fergalaz, Dayuniis, Yihinren, Yunugaz, and Byariis aspects is required to make this draught. <nl>The more Azuwynn is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Spiderbreed Draught, which allows one to climb on obstacles.</scale>
+manual.item.thebetweenlands.bl.elixir.weakbow.description=<scale\:0.8>The Weakbow Draught reduces archery skill, greatly limiting one's bow shooting range. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, and Armaniis aspects is required to make this draught. <nl>The more Freiwynn is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Draught of Sagittarius, which allows one to see the path of an arrow fired from a bow.</scale>
+manual.item.thebetweenlands.bl.elixir.blindman.description=<scale\:0.75>The Blindman’s Brew severely limits the functions of the eye, causing one to only be able to see a small distance in front of them and be unable to sprint. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, Geoliirgaz, and Byariis aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew's effects. The more Dayuniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Brew of the Cat’s Eye, which allows one to see better in the dark.</scale>
+manual.item.thebetweenlands.bl.elixir.slugarm.description=<scale\:0.75>The Slugarm Brew makes the arms feel numb, decreasing one's arm swinging speed and thus causing them to mine slower and strike foes less easily. <nl>A combination of Azuwynn, Dayuniis, Yunugaz, Ordaniis, and Byariis aspects is required to make this brew. <nl>The more Azuwynn is used, the stronger are the brew’s effects. The more Ordaniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Swiftarm Brew, which increases one's arm swinging speed.</scale>
+manual.item.thebetweenlands.bl.elixir.stenching.description=<scale\:0.8>The Stenching Brew has a very potent odor that is desired by monsters, making it easier for one to be detected by predators. <nl>A combination of Dayuniis and Armaniis aspects is required to make this brew. <nl>The more Armaniis is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Masking Brew, which makes it harder for one to be detected by predators.</scale>
+manual.item.thebetweenlands.bl.elixir.drunkard.description=<scale\:0.75>The Drunkard’s Brew is highly intoxicating, causing one to experience a heavy bout of nausea. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, Firnalaz, and Byariis aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Hunter’s Sense Brew, which allows one to detect the scent trails of creatures.</scale>
+manual.item.thebetweenlands.bl.elixir.starvation.description=<scale\:0.8>The Elixir of Starvation makes the stomach digest food faster and less efficiently, causing one to go hungry more quickly. <nl>A combination of Yeowynn, Ordaniis, Celawynn, and Byariis aspects is required to make this elixir. <nl>The more Celawynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Feasting, which fills one's stomach.</scale>
+manual.item.thebetweenlands.bl.elixir.poisonsting.description=<scale\:0.8>The Poisonsting Elixir contains the wrath of the sinister plants found in the Betweenlands, poisoning one instantly. <nl>A combination of Azuwynn, Yeowynn, Celawynn, and Byariis aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Celawynn is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Toughskin Elixir, which protects one from harmful plants.</scale>
+manual.item.thebetweenlands.bl.elixir.decay.description=<scale\:0.75>The Elixir of Decay increases vulnerability to the decaying aura of the Betweenlands, causing one to experience a quicker decline in physical and psychological health. <nl>A combination of Yeowynn, Ordaniis, Dayuniis, and Byariis aspects is required to make this elixir. <nl>The more Dayuniis is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Ripening, which reverses one's responses to the decaying aura.</scale>
+manual.item.thebetweenlands.bl.elixir.draining.description=<scale\:0.85>The Elixir of Draining eats away at the body, draining one's health over time. <nl>A combination of Yeowynn, Ordaniis, and Byariis aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Healing, which restores one's health over time.</scale>
+manual.item.thebetweenlands.bl.elixir.lumbering.description=<scale\:0.85>The Lumbering Elixir makes the muscles lethargic, reducing one's movement speed. <nl>A combination of Azuwynn, Ordaniis, Yunugaz, and Byariis aspects is required to make this elixir. <nl>The more Yunugaz is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Nimblefeet Elixir, which speeds one's movement.</scale>
+manual.item.thebetweenlands.bl.elixir.weakness.description=<scale\:0.8>The Elixir of Weakness weakens the muscles, reducing one's damage output when they attack. <nl>A combination of Azuwynn, Ordaniis, and Byariis aspects is required to make this elixir. <nl>The more Azuwynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Leaving out Byariis will reveal the true nature of the elixir, turning it into the Elixir of Strength, which increases one's damage output.</scale>
+manual.item.thebetweenlands.bl.elixir.unclouded.description=<scale\:0.75>The Draught of the Unclouded clears a foggy mind, allowing one to see through dense fog as if it evaporated in front of their eyes. <nl>A combination of Dayuniis, Freiwynn, Geoliirgaz, Ordaniis, and Yunugaz aspects is required to make this draught. <nl>The more Geoliirgaz is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Draught of the Fogged Mind, which causes one to hallucinate a very dense fog around them.</scale>
+manual.item.thebetweenlands.bl.elixir.lightweight.description=<scale\:0.75>The Lightweight Draught causes a strange sensation of weightlessness, allowing one to walk slowly over water as if it were solid ground. <nl>A combination of Azuwynn, Byrginaz, Yunugaz, Yihinren, and Geoliirgaz aspects is required to make this draught. <nl>The more Yunugaz is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Heavyweight Draught, which hinders one's swimming ability and causes them to sink in Mud no matter what they are wearing to counteract it.</scale>
+manual.item.thebetweenlands.bl.elixir.spiderbreed.description=<scale\:0.75>The Spiderbreed Draught changes the workings of the skin and muscle, allowing one to climb up and down any obstacle as if they were an insect. <nl>A combination of Azuwynn, Fergalaz, Dayuniis, Yihinren, and Yunugaz aspects is required to make this draught. <nl>The more Azuwynn is used, the stronger are the draught’s effects. The more Yihinren is used, the longer the draught lasts. <nl>Adding Byariis will corrupt the nature of the draught, turning it into the Basilisk Draught, which causes one to experience paralysis.</scale>
+manual.item.thebetweenlands.bl.elixir.sagittarius.description=<scale\:0.75>The Draught of Sagittarius contains the power of Sagittarius, allowing one to see exactly what path their arrow will take when fired from a bow. <nl>A combination of Freiwynn, Dayuniis, Byariis, Ordaniis, and Armaniis aspects is required to make this draught. <nl>The more Freiwynn is used, the stronger are the draught's effects. The more Dayuniis is used, the longer the draught lasts. <nl>Leaving out Byariis will reveal the true nature of the draught, turning it into the Weakbow Draught, which reduces one's bow shooting range.</scale>
+manual.item.thebetweenlands.bl.elixir.catsEyes.description=<scale\:0.8>The Brew of the Cat's Eye makes the eyes extremely sensitive to light, allowing one to see very well in the dark. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, and Geoliirgaz aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew's effects. The more Dayuniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Blindman's Brew, which causes one to be blinded.</scale>
+manual.item.thebetweenlands.bl.elixir.swiftarm.description=<scale\:0.75>The Swiftarm Brew enables arm muscles to work to their fullest, increasing one's arm swinging speed and thus allowing them to mine faster, pull back bows more rapidly, and strike foes more easily. <nl>A combination of Azuwynn, Dayuniis, Yunugaz, and Ordaniis aspects is required to make this brew. <nl>The more Azuwynn is used, the stronger are the brew’s effects. The more Ordaniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Slugarm Brew, which decreases one's arm swinging speed.</scale>
+manual.item.thebetweenlands.bl.elixir.masking.description=<scale\:0.8>The Masking Brew masks natural odors like a perfume, making it harder for one to be detected by predators. <nl>A combination of Dayuniis, Armaniis, and Byariis aspects is required to make this brew. <nl>The more Armaniis is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Leaving out Byariis will reveal the true nature of the brew, turning it into the Stenching Brew, which makes it easier for one to be detected by predators.</scale>
+manual.item.thebetweenlands.bl.elixir.huntersSense.description=<scale\:0.8>The Hunter’s Sense Brew enhances the senses, allowing one to see and smell the scent trails of creatures in order to track them down. <nl>A combination of Freiwynn, Dayuniis, Ordaniis, and Firnalaz aspects is required to make this brew. <nl>The more Freiwynn is used, the stronger are the brew’s effects. The more Dayuniis is used, the longer the brew lasts. <nl>Adding Byariis will corrupt the nature of the brew, turning it into the Drunkard’s Brew, which causes one to experience heavy nausea.</scale>
+manual.item.thebetweenlands.bl.elixir.feasting.description=<scale\:0.8>The Elixir of Feasting gives the stomach something tough to feed on, satisfying one's hunger over time. <nl>A combination of Yeowynn, Ordaniis, and Celawynn aspects is required to make this elixir. <nl>The more Celawynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Starvation, which causes one to go hungry more quickly.</scale>
+manual.item.thebetweenlands.bl.elixir.toughskin.description=<scale\:0.8>The Toughskin Elixir increases skin toughness, protecting one from harmful plants found throughout the Betweenlands. <nl>A combination of Azuwynn, Yeowynn, and Celawynn aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Celawynn is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Poisonsting Elixir, which poisons one instantly.</scale>
+manual.item.thebetweenlands.bl.elixir.ripening.description=<scale\:0.75>The Elixir of Ripening reverses the effects of the decaying aura of the Betweenlands, restoring one's physical and psychological health over time. <nl>A combination of Yeowynn, Ordaniis, and Dayuniis aspects is required to make this elixir. <nl>The more Dayuniis is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Decay, which accelerates one's vulnerability to the decaying aura’s effects.</scale>
+manual.item.thebetweenlands.bl.elixir.healing.description=<scale\:0.85>The Elixir of Healing accelerates natural regeneration, healing one's wounds over time. <nl>A combination of Yeowynn and Ordaniis aspects is required to make this elixir. <nl>The more Yeowynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Draining, which drains one's health over time.</scale>
+manual.item.thebetweenlands.bl.elixir.nimblefeet.description=<scale\:0.85>The Nimblefeet Elixir enhances muscle swiftness and nimbleness, increasing one's movement speed. <nl>A combination of Azuwynn, Ordaniis, and Yunugaz aspects is required to make this elixir. <nl>The more Yunugaz is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Lumbering Elixir, which slows one's movement.</scale>
+manual.item.thebetweenlands.bl.elixir.strength.description=<scale\:0.8>The Elixir of Strength increases raw physical strength, causing one to deal more damage when they attack. <nl>A combination of Azuwynn and Ordaniis aspects is required to make this elixir. <nl>The more Azuwynn is used, the stronger are the elixir’s effects. The more Ordaniis is used, the longer the elixir lasts. <nl>Adding Byariis will corrupt the nature of the elixir, turning it into the Elixir of Weakness, which reduces one's damage output.</scale>
 
 # GUIs
 gui.gallery.not_found=Online picture gallery\nis currently disabled.\nThis feature can be\nenabled in the config\nunder 'General' and\n'Online picture gallery'.\nThen restart the game\nto download the\npictures.
-gui.gallery.author=§n§oAuthor:§r        
-gui.gallery.description=§n§oDescription:§r   
-gui.gallery.source_url=§n§oSource:§r        
+gui.gallery.author=§n§oAuthor\:§r        
+gui.gallery.description=§n§oDescription\:§r   
+gui.gallery.source_url=§n§oSource\:§r        
 gui.gallery.source_url_click=§9§o§nOpen URL§r
 gui.gallery.info_not_found=Could not find any information about this picture
-gui.gallery.search=Search:
-gui.gallery.random=Randomize!
-gui.gallery.submission=Want to see your own fan art featured?\nSubmit it to {twitter} on Twitter\nor on our {discord} server using\nthe #BetweenlandsGallery hashtag!
+gui.gallery.search=Search\:
+gui.gallery.random=Randomize\!
+gui.gallery.submission=Want to see your own fan art featured?\nSubmit it to {twitter} on Twitter\nor on our {discord} server using\nthe \#BetweenlandsGallery hashtag\!
 
 gui.bl.draeton.burner.fuel=Burner requires Shallowbreath fluid
 gui.bl.draeton.burner.purge=Purge
-gui.bl.draeton.main.puller=Puller slot:\n§7 - Dragonfly\n§7 - Firefly\n§7 - Tamed Chiromaw
-gui.bl.draeton.main.upgrade_utility=Utility upgrade slot:\n§7 - Lurker Skin Pouch\n§7 - Draeton Crafting Upgrade\n§7 - Draeton Furnace Upgrade
-gui.bl.draeton.main.upgrade_anchor=Anchor upgrade slot:\n§7 - Draeton Anchor Upgrade
+gui.bl.draeton.main.puller=Puller slot\:\n§7 - Dragonfly\n§7 - Firefly\n§7 - Tamed Chiromaw
+gui.bl.draeton.main.upgrade_utility=Utility upgrade slot\:\n§7 - Lurker Skin Pouch\n§7 - Draeton Crafting Upgrade\n§7 - Draeton Furnace Upgrade
+gui.bl.draeton.main.upgrade_anchor=Anchor upgrade slot\:\n§7 - Draeton Anchor Upgrade
 
 # Advancements
 
@@ -1752,7 +1752,7 @@ advancements.thebetweenlands.adventurer.queen_of_the_hill.title=Queen of the Hil
 advancements.thebetweenlands.adventurer.queen_of_the_hill.description=Raid a Chiromaw Matriarch Nest without claiming it
 advancements.thebetweenlands.adventurer.gambling_addict.title=Gambling Addict
 advancements.thebetweenlands.adventurer.gambling_addict.description=Animate way too many Item Scrolls
-advancements.thebetweenlands.adventurer.thunderstruck.title=Thunderstruck!
+advancements.thebetweenlands.adventurer.thunderstruck.title=Thunderstruck\!
 advancements.thebetweenlands.adventurer.thunderstruck.description=Fly into lightning while using a Volarkite or riding a Draeton
 
 # Fighter
@@ -1786,7 +1786,7 @@ advancements.thebetweenlands.fighter.sticky_situation.title=Sticky Situation
 advancements.thebetweenlands.fighter.sticky_situation.description=Slay a Sludge with a Sludge Slicer
 advancements.thebetweenlands.fighter.glorified_toothpick.title=Glorified Toothpick
 advancements.thebetweenlands.fighter.glorified_toothpick.description=Obtain the Shockwave Sword
-advancements.thebetweenlands.fighter.do_the_wave.title=Do the Wave!
+advancements.thebetweenlands.fighter.do_the_wave.title=Do the Wave\!
 advancements.thebetweenlands.fighter.do_the_wave.description=Slay three enemies using a shockwave
 advancements.thebetweenlands.fighter.staring_contest.title=Staring Contest
 advancements.thebetweenlands.fighter.staring_contest.description=Defeat the Primordial Malevolence
@@ -1860,7 +1860,7 @@ advancements.thebetweenlands.survivalist.hardware_laundry.title=Hardware Laundry
 advancements.thebetweenlands.survivalist.hardware_laundry.description=Purify your tools
 advancements.thebetweenlands.survivalist.onions_have_layers.title=Onions Have Layers, Tools Alike
 advancements.thebetweenlands.survivalist.onions_have_layers.description=Coat your tools against corrosion
-advancements.thebetweenlands.survivalist.hashtag_blessed.title=#Blessed
+advancements.thebetweenlands.survivalist.hashtag_blessed.title=\#Blessed
 advancements.thebetweenlands.survivalist.hashtag_blessed.description=Get saved by the Blessed effect from a Simulacrum
 
 # Craftsman
@@ -2005,13 +2005,13 @@ death.attack.bl.swarm=%1$s was decomposed by infestation
 
 #Dev thing
 item.thebetweenlands.test_item_chimp_ruler.name=Test Ruler
-tooltip.bl.chimp_ruler.homex=Home X: %s
-tooltip.bl.chimp_ruler.homey=Home Y: %s
-tooltip.bl.chimp_ruler.homez=Home Z: %s
+tooltip.bl.chimp_ruler.homex=Home X\: %s
+tooltip.bl.chimp_ruler.homey=Home Y\: %s
+tooltip.bl.chimp_ruler.homez=Home Z\: %s
 
-chat.chimp_ruler_x=Target X: %s
-chat.chimp_ruler_y=Target Y: %s
-chat.chimp_ruler_z=Target Z: %s
+chat.chimp_ruler_x=Target X\: %s
+chat.chimp_ruler_y=Target Y\: %s
+chat.chimp_ruler_z=Target Z\: %s
 
 # Subtitles
 blsubtitles.ambient.blood_sky=Distant roar
@@ -2231,7 +2231,7 @@ blsubtitles.misc.gears=Gears turn
 blsubtitles.misc.wall_slide=Wall slides
 blsubtitles.misc.wall_slam=Wall slams
 blsubtitles.misc.poop_jet=Sludge shoots out
-blsubtitles.misc.pit_fall
+blsubtitles.misc.pit_fall=
 blsubtitles.misc.zap=Electrical zap
 blsubtitles.misc.chirobarb_erupter=Chirobarb Erupter shoots barbs
 blsubtitles.misc.simulacrum_break=Mysterious distant noise
