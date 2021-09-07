@@ -1,6 +1,6 @@
 preserve_hierarchy: true
 files:
   - source: src/main/resources/assets/thebetweenlands/lang/en_US.lang
-    dest: src/main/resources/assets/thebetweenlands/betweenlands.properties
+    dest: betweenlands.properties
     translation: src/main/resources/assets/thebetweenlands/%locale_with_underscore%.lang
     type: properties
