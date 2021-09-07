@@ -1,3 +1,5 @@
 files:
   - source: src/main/resources/assets/thebetweenlands/lang/en_US.lang
+    dest: src/main/resources/assets/thebetweenlands/%locale_with_underscore%.properties
     translation: src/main/resources/assets/thebetweenlands/%locale_with_underscore%.lang
+    type: properties
